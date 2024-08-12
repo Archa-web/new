@@ -1,4 +1,4 @@
-<h3>Build an html docker container running on port 4040</h3>
+<h1>Build an html docker container running on port 4040</h1>
 
 <h4>1. Create a Project Directory</h4>
 mkdir html-docker<br>
